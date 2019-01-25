@@ -1,0 +1,32 @@
+.mylink{
+    color: green;
+    font-size: 45px;
+}
+
+.badlink{
+    color: rgb(0, 85, 124);
+    font-size: 56px;
+}
+
+.oklink{
+    color: rgb(233, 52, 188); 
+    font-size: 58px;
+}
+
+a:hover{
+    color: red;
+}
+a:focus{
+    color: red;
+}
+a:active{
+    color:purple;
+}
+
+p:hover{
+    color: blue;
+}
+
+p:focus{
+    color: rgba(168, 138, 5, 0.933);
+}
